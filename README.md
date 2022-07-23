@@ -4,4 +4,4 @@
 
 #### Группа: SQLPY-52
 
-[Домашнее задание](https://github.com/iMiktot/Py.2.lesson/main.py)
+[Домашнее задание](https://github.com/iMiktot/Py.2.lesson/blob/main/main.py)
